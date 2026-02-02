@@ -1,0 +1,14 @@
+[
+  {
+    "title": "BEM-VINDO AO LANÇAMENTO!",
+    "date": "02/02/2026",
+    "content": "Estamos muito felizes em anunciar a abertura do servidor! Aproveitem os novos mods e divirtam-se.",
+    "tag": "EVENTO"
+  },
+  {
+    "title": "Manutenção Programada",
+    "date": "01/02/2026",
+    "content": "O servidor reiniciará às 18h para ajustes de lag.",
+    "tag": "AVISO"
+  }
+]
